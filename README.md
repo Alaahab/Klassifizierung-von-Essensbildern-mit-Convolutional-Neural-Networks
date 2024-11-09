@@ -50,4 +50,4 @@ Abschließend werden die wichtigsten Erkenntnisse zusammengefasst und mögliche 
 ### Installation
 1. Klonen Sie das Repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Alaahab/Klassifizierung-von-Essensbildern-mit-Convolutional-Neural-Networks.git
