@@ -47,8 +47,6 @@ Abschließend werden die wichtigsten Erkenntnisse zusammengefasst und mögliche 
 ### Voraussetzungen
 - Python 3.x
 - PyTorch
-- Weitere benötigte Bibliotheken sind in der `requirements.txt`-Datei enthalten.
-
 ### Installation
 1. Klonen Sie das Repository:
    ```bash
