@@ -45,7 +45,7 @@ Abschließend werden die wichtigsten Erkenntnisse zusammengefasst und mögliche 
 
 ## Installation und Ausführung
 ### Voraussetzungen
-- Python 3.x
+- Python 3.9
 - PyTorch
 ### Installation
 1. Klonen Sie das Repository:
